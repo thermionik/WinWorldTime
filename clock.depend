@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\therm\onedrive\desktop\clock\clock\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1743445502 c:\users\therm\onedrive\desktop\clock\clock\resource.h
+
+1751766508 source:c:\users\therm\onedrive\desktop\clock\clock\main.cpp
+	<windows.h>
+	<time.h>
+	<string.h>
+
+1751771285 source:c:\users\therm\onedrive\desktop\clock\main.cpp
+	<windows.h>
+	<time.h>
+	<string.h>
+
+1743445502 source:c:\users\therm\onedrive\desktop\clock\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1743445502 c:\users\therm\onedrive\desktop\clock\resource.h
+
